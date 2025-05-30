@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/OpenAidUA/openaidua/issues"
   },
-  "homepage": "https://github.com/OpenAidUA/openaidua#readme"
+  "homepage": "https://github.com/OpenAidUA/openaidua#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.24.1"
+  }
 }
